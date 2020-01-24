@@ -1,0 +1,15 @@
+[package]
+name = "multan381a"
+version = "0.1.0"
+authors = ["Kingtariq381A <tariqmasood2k2@yahoo.com>"]
+edition = "2018"
+repository = "https://github.com/KindTariq/multan381a"
+homepage = "https://github.com/KingTariq/multan381a"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+description = "Sample Library by Tariq Masood"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
